@@ -31,7 +31,7 @@ module.exports = {
       "https://api.lambdatest.com/automation/api/v1/cypress/artefacts/test/",
   },
   beta: {
-    INTEGRATION_BASE_URL: "https://api-cypdevenv22-dev.lambdatestinternal.com/liis",
+    INTEGRATION_BASE_URL: "https://api-ankitdev22-dev.lambdatestinternal.com/liis",
     BUILD_BASE_URL:
       "https://api-ankitdev22-dev.lambdatestinternal.com/automation/api/v1/builds/",
     BUILD_STOP_URL:
